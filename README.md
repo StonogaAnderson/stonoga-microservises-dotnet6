@@ -1,0 +1,1 @@
+# stonoga-microservises-dotnet6
